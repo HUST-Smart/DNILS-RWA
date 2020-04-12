@@ -113,17 +113,17 @@ Table.5 The best results of our SAS-ILS algorithm comparing with the previous be
   2   |  Z.4x25.40         |    127       |  [127](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.4x25.40.json)|
   3   |  Z.4x25.60        |    193       |  [193](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.4x25.60.json)|
   4   |  Z.4x25.80         |    258       |  [258](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.4x25.80.json)|
-  5   |  Z.4x25.100         |    317       |  [315](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.4x25.100.json)|
+  5   |  Z.4x25.100         |    317       |  [315](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/z.4x25.100.json)|
   6   |  Z.5x20.20         |    54       |  [54 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.5x20.20.json)|
   7   |  Z.5x20.40         |    101       |  [101](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.5x20.40.json)|
   8   |  Z.5x20.60         |    154       |  [154](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.5x20.60.json)|
   9   |  Z.5x20.80         |    206       |  [205](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.5x20.80.json)|
- 10   |  Z.5x20.100         |    253       |  [252](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.5x20.100.json)|
+ 10   |  Z.5x20.100         |    253       |  [252](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/z.5x20.100.json)|
  11   |  Z.6x17.20         |    44       |  [44 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.6x17.20.json)|
  12   |  Z.6x17.40         |    85       |  [85 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.6x17.40.json)|
  13   |  Z.6x17.60         |    129       |  [129](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.6x17.60.json)|
  14   |  Z.6x17.80         |    171       |  [171](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.6x17.80.json)|
- 15   |  Z.6x17.100         |    220       |  [217](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.6x17.100.json)|
+ 15   |  Z.6x17.100         |    220       |  [217](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/z.6x17.100.json)|
  16   |  Z.8x13.20         |    34       |  [33 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.8x13.20.json)|
  17   |  Z.8x13.40         |    64       |  [64 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.8x13.40.json)|
  18   |  Z.8x13.60         |    98       |  [97 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.8x13.60.json)|
