@@ -128,7 +128,7 @@ Table.5 The best results of our SAS-ILS algorithm comparing with the previous be
  17   |  Z.8x13.40         |    64       |  [64 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.8x13.40.json)|
  18   |  Z.8x13.60         |    98       |  [97 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.8x13.60.json)|
  19   |  Z.8x13.80         |    130       |  [130](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.8x13.80.json)|
- 20   |  Z.8x13.100         |    173       |  [169](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.8x13.100.json)|
+ 20   |  Z.8x13.100         |    173       |  [169](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/z.8x13.100.json)|
  21   |  Z.10x10.20         |    29       |  [28 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.10x10.20.json)|
  22   |  Z.10x10.40         |    55       |  [54 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.10x10.40.json)|
  23   |  Z.10x10.60         |    84       |  [82 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.10x10.60.json)|
