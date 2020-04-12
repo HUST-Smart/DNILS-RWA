@@ -1,5 +1,6 @@
-# Local Search based on a New Neighborhood for Routing and Wavelength Assignment
-
+# An Eﬀective Local Search for Routing and Wavelength Assignment
+The result files are saved with JSON encoding, whch can be obtained by clicking the flowing links.
+In these files, "ID" denotes the id of a lightpath, "wave" denotes the wavelength assinged to the lightpath and "path" denotes the its route.
 Table.1 The best results of our SAS-ILS algorithm comparing with the previous best results on instances of set W.
   No. |      Instances      |  Best Known |  Our Results
 -|-|-|-
