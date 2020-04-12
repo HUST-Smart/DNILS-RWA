@@ -133,4 +133,4 @@ Table.5 The best results of our SAS-ILS algorithm comparing with the previous be
  22   |  Z.10x10.40         |    55       |  [54 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.10x10.40.json)|
  23   |  Z.10x10.60         |    84       |  [82 ](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.10x10.60.json)|
  24   |  Z.10x10.80        |    112       |  [109](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.10x10.80.json)|
- 25   |  Z.10x10.100         |    139       |  [134](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/Z.10x10.100.json)|
+ 25   |  Z.10x10.100         |    139       |  [134](https://github.com/yuanFang1/RoutingAndWavelengthAssignment/blob/master/Result/z.10x10.100.json)|
